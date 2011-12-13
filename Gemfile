@@ -1,0 +1,7 @@
+source "http://rubygems.org"
+gem "sinatra"
+gem "haml"
+gem "sass"
+gem "x10-cm17a"
+gem "data_mapper"
+gem "dm-sqlite-adapter"
