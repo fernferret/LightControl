@@ -1,13 +1,11 @@
 # LightControl
 "It Lives!"
 
+LightControl allows you to take advantage of Sinatra's web interface to control lights and appliances in your home, office, or dorm room!
+
 To install:
 
 `gem install thin bundler`
-
-then
-
-`gem install x10-cm17a` (May require root privilages)
 
 then
 
